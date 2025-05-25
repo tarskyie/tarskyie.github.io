@@ -1,1 +1,0 @@
-﻿# tarskyie.github.io
