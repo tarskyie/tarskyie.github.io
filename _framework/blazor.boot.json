@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "tarskyie-wportal",
   "resources": {
-    "hash": "sha256-3MAECyVEd6AZpBhYINEO4luEpowlxzx9fWNoQywOSlU=",
+    "hash": "sha256-wZpgWuWwkXJz/4DsFHiify2nBMHMu2gIWbnHLJFH0wM=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.h8e7kwmyfc.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.hnaeer1qzf.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -43,7 +43,7 @@
       "System.Text.RegularExpressions.k0eu65ve7y.wasm": "System.Text.RegularExpressions.wasm",
       "System.ezrw3d5kw2.wasm": "System.wasm",
       "System.Private.CoreLib.29b2xjlbxi.wasm": "System.Private.CoreLib.wasm",
-      "tarskyie-wportal.c4n9y2pmjm.wasm": "tarskyie-wportal.wasm",
+      "tarskyie-wportal.iy50ep5sg8.wasm": "tarskyie-wportal.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.uhsveqo9bs.js": "dotnet.native.js",
       "dotnet.native.swgexbmoy7.wasm": "dotnet.native.wasm",
@@ -109,7 +109,7 @@
       "System.Text.Json.9tjrg4i6ka.wasm": "sha256-8yLnU030MmSmnh0pGcnWoRmv9Cr+okYHtHMSGymIesc=",
       "System.Text.RegularExpressions.k0eu65ve7y.wasm": "sha256-dAw+dIKra7ljgRE+eVWL5wTVKKXPJi7x/AdHfLLcFDs=",
       "System.ezrw3d5kw2.wasm": "sha256-ViNRvhyxlTugIlqJHamw/HwbXlg/YWcrANmxuTM0tfg=",
-      "tarskyie-wportal.c4n9y2pmjm.wasm": "sha256-TJdw7Zm9YcYmWULvf26lUSXJO2C/6slX6oRzmaqlSwM="
+      "tarskyie-wportal.iy50ep5sg8.wasm": "sha256-1r9Es5AZznzpzMsQdUIr3pluI8YVYmCmR8nD6Ii1qx4="
     },
     "libraryInitializers": {
       "_content/Microsoft.FluentUI.AspNetCore.Components/Microsoft.FluentUI.AspNetCore.Components.lib.module.js": "sha256-saocpjMzEV/5RzpPqa9RdvQ2/NJEkHJesyHry6qfD4U="
