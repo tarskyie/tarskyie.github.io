@@ -1,0 +1,31 @@
+/* /Layout/MainLayout.razor.rz.scp.css */
+html[b-jzswhejw2w], body[b-jzswhejw2w] {
+    max-width: 100vw;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.page[b-jzswhejw2w] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    height: 100%;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+main[b-jzswhejw2w] {
+    flex: 1;
+}
+
+.footer[b-jzswhejw2w] {
+    position: relative;
+    bottom: 0;
+}
+
+@media (min-width: 641px) {
+    .page[b-jzswhejw2w] {
+        flex-direction: column;
+    }
+}
