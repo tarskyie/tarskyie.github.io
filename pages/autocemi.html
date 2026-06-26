@@ -1,0 +1,24 @@
+Yesterday I <a href="https://github.com/tarskyie/AutoCEMI/releases/tag/v1.0.0.0" target="_blank">released</a>
+ AutoCEMI for the first time on GitHub.
+Turns out releasing software is difficult, so it took a while to push the application to public access.
+This set of programs is my most competently made software yet. 
+<br>
+Autonomous Configuration Execution and Management Interface, or AutoCEMI for short, is a game launcher for 
+classic Doom. It is comes both as a windowed application and a command line interface suitable for
+PowerShell and batch scripting, they share the same class library responsible for game execution and 
+data management. AutoCEMI relies on a user-managed database and JSON-format game profiles.
+The application has no support for multiplayer for now.
+<br>
+Game profiles specify source port, IWAD, load order of mods, and additional arguments passed to 
+the engine. They also contain name and description fields. The usage of game profiles is useful 
+when you run multiple mod loads for different games and source port versions. They can be stored, 
+written, and read with AutoCEMI anywhere in the file system given necessary permissions
+<br>
+Framework-dependent builds require specific versions of Windows App SDK and .NET runtime. The 
+Inno Setup installer will download and install them automatically. If you do not want to install those 
+dependencies, you can use self-contained builds instead. That option is not recommended for 
+most users, as the size of self-contained applications is larger by about one hundred megabytes. I 
+did manage to get the CLI application under 30 megabytes by trimming, but it is still noticeably 
+bigger than framework-dependent build of the CLI.
+<br>
+For more information, read the usage and installation guide <a href="https://1drv.ms/b/c/b9e5a7932bab8fce/IQCIRPR8mmEoQKlNdnk0VlenARLstWE6RCtjHSEU3-7jZ7E?e=igtpdo" target="_blank">here</a>.
